@@ -8,6 +8,10 @@ language: ru
 tests:
   include:
     - test.xml
+    
+injector:
+    botName: валерия
+    APIKEY: ""
 
 nlp:
   intentNoMatchThresholds:
